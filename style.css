@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background: #CE5937;
+  background: linear-gradient(to right, #CE5937 0%, #1C6EA4 50%, #C59237 100%);
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+h1{
+  color: white;
+}
+
+img{
+  width: 200px;
+}
